@@ -1,2 +1,2 @@
 # KinectASL
-Live ASL to text translation using Kinect
+A kinect based communication system for vocally impaired.
